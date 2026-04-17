@@ -1,0 +1,184 @@
+2026-04-15 18:07:04,477 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_input())
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got None
+2026-04-15 18:07:07,022 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_input())
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got None
+2026-04-15 18:07:07,527 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_input())
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got None
+2026-04-15 18:07:07,727 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_input())
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got None
+2026-04-15 18:07:07,907 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_input())
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got None
+2026-04-15 18:07:08,092 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_input())
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got None
+2026-04-15 18:07:08,251 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_input())
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got None
+2026-04-15 18:07:35,290 - INFO - Moved: F:\Projects\Videos\Footages\Videos\1st part for [].mp4 -> F:\Projects\Videos\Footages\Videos\videos\1st part for [].mp4
+2026-04-15 18:07:35,290 - INFO - Moved: F:\Projects\Videos\Footages\Videos\1st part for [].mp4.~tmp -> F:\Projects\Videos\Footages\Videos\others\1st part for [].mp4.~tmp
+2026-04-15 18:07:35,290 - INFO - Moved: F:\Projects\Videos\Footages\Videos\27706-365890968_medium.mp4 -> F:\Projects\Videos\Footages\Videos\videos\27706-365890968_medium.mp4
+2026-04-15 18:07:35,294 - INFO - Moved: F:\Projects\Videos\Footages\Videos\2nd part for [].mp4 -> F:\Projects\Videos\Footages\Videos\videos\2nd part for [].mp4
+2026-04-15 18:07:35,295 - INFO - Moved: F:\Projects\Videos\Footages\Videos\4733-179738669_medium.mp4 -> F:\Projects\Videos\Footages\Videos\videos\4733-179738669_medium.mp4
+2026-04-15 18:07:35,296 - INFO - Moved: F:\Projects\Videos\Footages\Videos\Earth Rotating.mp4 -> F:\Projects\Videos\Footages\Videos\videos\Earth Rotating.mp4
+2026-04-15 18:07:35,296 - INFO - Moved: F:\Projects\Videos\Footages\Videos\Flare Transition.mp4 -> F:\Projects\Videos\Footages\Videos\videos\Flare Transition.mp4
+2026-04-15 18:07:35,299 - INFO - Moved: F:\Projects\Videos\Footages\Videos\Galaxy.mp4 -> F:\Projects\Videos\Footages\Videos\videos\Galaxy.mp4
+2026-04-15 18:07:35,300 - INFO - Moved: F:\Projects\Videos\Footages\Videos\Is universe infinite .mp4 -> F:\Projects\Videos\Footages\Videos\videos\Is universe infinite .mp4
+2026-04-15 18:07:35,301 - INFO - Moved: F:\Projects\Videos\Footages\Videos\Solar System.mp4 -> F:\Projects\Videos\Footages\Videos\videos\Solar System.mp4
+2026-04-15 18:07:35,301 - INFO - Moved: F:\Projects\Videos\Footages\Videos\Stidfy - Main.mp4 -> F:\Projects\Videos\Footages\Videos\videos\Stidfy - Main.mp4
+2026-04-15 18:07:35,302 - INFO - Moved: F:\Projects\Videos\Footages\Videos\Teachers-1.mp4 -> F:\Projects\Videos\Footages\Videos\videos\Teachers-1.mp4
+2026-04-15 18:07:35,302 - INFO - Moved: F:\Projects\Videos\Footages\Videos\UI.mp4 -> F:\Projects\Videos\Footages\Videos\videos\UI.mp4
+2026-04-15 18:07:35,304 - INFO - Moved: F:\Projects\Videos\Footages\Videos\Universe.mp4 -> F:\Projects\Videos\Footages\Videos\videos\Universe.mp4
+2026-04-15 18:07:35,304 - INFO - Moved: F:\Projects\Videos\Footages\Videos\WhatsApp Audio 2026-04-07 at 7.21.41 PM.aac -> F:\Projects\Videos\Footages\Videos\others\WhatsApp Audio 2026-04-07 at 7.21.41 PM.aac
+2026-04-15 18:07:35,305 - INFO - Moved: F:\Projects\Videos\Footages\Videos\WhatsApp Video 2026-04-07 at 7.36.31 PM.mp4 -> F:\Projects\Videos\Footages\Videos\videos\WhatsApp Video 2026-04-07 at 7.36.31 PM.mp4
+2026-04-15 18:07:35,307 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_input())
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got None
+2026-04-16 18:01:48,361 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at C:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_input())
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got None
+2026-04-16 18:28:52,508 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at c:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at c:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_input())
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got None
+2026-04-16 18:32:11,257 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at c:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at c:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_toast)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got <function command_toast at 0x0000021BC0567B50>
+2026-04-16 18:32:15,107 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at c:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at c:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_toast)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got <function command_toast at 0x0000021BC0567B50>
+2026-04-16 18:32:21,365 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at c:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at c:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_toast)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got <function command_toast at 0x0000021BC0567B50>
+2026-04-16 18:32:24,859 - ERROR - Exception in callback start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at c:\Giyu\Backend\Constant_running_modes.py:49
+handle: <Handle start_hotkey_listener.<locals>.trigger.<locals>.<lambda>() at c:\Giyu\Backend\Constant_running_modes.py:49>
+Traceback (most recent call last):
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\Giyu\Backend\Constant_running_modes.py", line 49, in <lambda>
+    lambda: asyncio.create_task(command_toast)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 337, in create_task
+    task = loop.create_task(coro)
+  File "C:\Users\AMRISH\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 438, in create_task
+    task = tasks.Task(coro, loop=self, name=name)
+TypeError: a coroutine was expected, got <function command_toast at 0x0000021BC0567B50>
